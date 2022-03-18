@@ -37,7 +37,8 @@ Implement the program in the source file "pwcheck.c". Input data (password list)
 
 # Syntax to run the program
 ````
-./pwcheck LEVEL PARAM [--stats] 
+$ gcc -std=c99 -Wall -Wextra -Werror pwcheck.c -o pwcheck
+./pwcheck LEVEL PARAM [--stats] <FILE
 ````
 - (./pwcheck indicates the location and name of the program)
 
@@ -47,6 +48,8 @@ an integer in the interval [1, 4] that specifies the required security level (se
 positive integer that specifies an additional rule parameter (see below)
 #### --stats
 if specified, determines whether summary statistics of the analyzed passwords should be displayed at the end of the program
+#### LEVEL
+name of file (especially passwords.txt)
 
 # Project results
 ### 9.3/10 points
