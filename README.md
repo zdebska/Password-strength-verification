@@ -48,7 +48,7 @@ an integer in the interval [1, 4] that specifies the required security level (se
 positive integer that specifies an additional rule parameter (see below)
 #### --stats
 if specified, determines whether summary statistics of the analyzed passwords should be displayed at the end of the program
-#### LEVEL
+#### FILE
 name of file (especially passwords.txt)
 
 # Project results
