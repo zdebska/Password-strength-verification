@@ -1,7 +1,7 @@
 # Password-strength-verification
 ### VUT: IZP_2021 Project1
 
-# Description: 
+# Description
 
 The aim of the project is to create a program that receives a set of passwords on input and verifies for each of them whether the password meets all required rules. The passwords that pass the check will be output, the others will be discarded. 
 
