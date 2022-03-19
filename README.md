@@ -1,5 +1,5 @@
 # Password-strength-verification
-### VUT: IZP_2021 Project1
+### VUT University : IZP_2021 Project1
 
 # Description
 
